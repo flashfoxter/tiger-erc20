@@ -1,5 +1,7 @@
 .settings
 node_modules
+target
 
+.classpath
 .project
 npm-debug.log
