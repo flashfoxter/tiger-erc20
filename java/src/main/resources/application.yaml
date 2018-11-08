@@ -1,0 +1,7 @@
+eth:
+  web3jServiceUrl: "https://mainnet.infura.io/v3/7cf3f19d41ab413cb1b5327fd3fc5cec"
+  tokenAddress: "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E"
+  masterPrivateKey: "0x52BE9D3275CC256B609C3D0CB9003C69011A93172FA7F4E7A70DAC633F1BF59D"
+  masterAddress: "0x2D7b7fe673Cd6fA9D0F43f17eeB7B3FF16f8d179"
+  emulateEvents: true
+  
